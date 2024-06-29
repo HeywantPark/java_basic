@@ -1,2 +1,6 @@
-package oop1;public class MusicPlayerData {
+package oop1;
+
+public class MusicPlayerData {
+    int volume = 0;
+    boolean isOn = false;
 }
